@@ -7,17 +7,14 @@ Welcome to my GitHub! I am a beginner programmer with a passion for building sol
 ---
 
 ## 💼 **I'm Interested In**
-- Web Development
-- Android App Development
-- Machine Learning (ML)
-- Open-Source Contributions
+Web Development | Android App Development | Machine Learning | Open-Source Contributions
 
 ---
 
 ## 🛠 **My Skills**
-- **Languages**: Python | C | C++ | Verilog | JavaScript | Java  
-- **Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
-- **Platforms**: Linux | Windows
+**Languages**: Python | C | C++ | Verilog | JavaScript | Java  
+**Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
+**Platforms**: Linux | Windows
 
 ---
 
@@ -27,8 +24,8 @@ Welcome to my GitHub! I am a beginner programmer with a passion for building sol
 ---
 
 ## 📫 **Let's Connect**
-- **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
-- **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+**Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
+**LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
 
 ---
 

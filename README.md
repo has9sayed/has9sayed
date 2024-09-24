@@ -31,18 +31,22 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 <br>
 
 ## 📊 **My Stats**
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default" alt="Hasnain's GitHub Stats" height="200px"> <!-- Set a fixed height -->
-  </picture>
+<div style="display: flex; justify-content: center; gap: 10px; height: 200px;"> <!-- Set a common height for the flex container -->
+  <div style="display: flex; flex-direction: column; height: 100%; width: 45%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">
+      <img src="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default" alt="Hasnain's GitHub Stats" style="height: 100%; width: 100%; object-fit: cover;"> <!-- Use object-fit to maintain aspect ratio -->
+    </picture>
+  </div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8" height="200px" alt="Commit Stats"> <!-- Set a fixed height -->
-  </picture>
+  <div style="display: flex; flex-direction: column; height: 100%; width: 45%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8">
+      <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8" alt="Commit Stats" style="height: 100%; width: 100%; object-fit: cover;"> <!-- Use object-fit to maintain aspect ratio -->
+    </picture>
+  </div>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=has9sayed&icon=0&color=0)](https://visitcount.itsvg.in)

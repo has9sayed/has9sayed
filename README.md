@@ -20,7 +20,7 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 <br>
 
 ## 🔧 **My Projects**
-**Swappr**: A course-swapping platform for BRACU students. [Live Project](https://swappr-bracu.web.app)
+**Swappr**: A course-swapping platform for Brac University students. [Live Project](https://swappr-bracu.web.app)
 
 <br>
 

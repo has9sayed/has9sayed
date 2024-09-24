@@ -39,8 +39,17 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 <br>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=github_dark" width="45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8" width="45%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=default">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=default" width="45%" alt="Top Languages">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=default&utcOffset=8" width="45%" alt="Commit Stats">
+  </picture>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=has9sayed&icon=0&color=0)](https://visitcount.itsvg.in)

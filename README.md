@@ -5,28 +5,23 @@
 Welcome to my GitHub!
 <p>I am a beginner programmer with a passion for building solutions that address real-world challenges.</p>
 <br>
-
 ## 💼 **I'm Interested In**
 Web Development | Android App Development | Machine Learning | Open-Source Contributions
-
 <br>
 
 ## 🛠 **My Skills**
 **Languages**: Python | C | C++ | Verilog | JavaScript | Java  
 **Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
 **Platforms**: Linux | Windows
-
 <br>
 
 ## 🔧 **My Projects**
 **Swappr**: A course-swapping platform for BRACU students. [Live Project](https://swappr-bracu.web.app)
-
 <br>
 
 ## 📫 **Let's Connect**
 **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
 **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
-
 <br>
 
 ## 📊 **My Stats**

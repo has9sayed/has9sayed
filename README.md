@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 👋 Hi there! I am Hasnain Sayed.
 
 Welcome to my GitHub! I am a beginner programmer with a passion for building solutions that address real-world challenges.
@@ -32,3 +34,5 @@ Web Development, Android App Development, ML, Open-Source Contributions
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">
   <img src="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default" alt="Hasnain's GitHub Stats">
 </picture>
+
+</div>

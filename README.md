@@ -28,4 +28,8 @@ Welcome to my GitHub! I am a **Computer Science & Engineering graduate** from **
 
 ---
 
-![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default" alt="Hasnain's GitHub Stats">
+</picture>

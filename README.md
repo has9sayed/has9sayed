@@ -1,4 +1,4 @@
-## Hi there! I am **Hasnain Sayed**.
+## 👋 Hi there! I am Hasnain Sayed.
 
 Welcome to my GitHub! I am a beginner programmer with a passion for building solutions that address real-world challenges.
 

@@ -6,8 +6,10 @@ Welcome to my GitHub! I am a beginner programmer with a passion for building sol
 
 
 
+
 ## 💼 **I'm Interested In**
 Web Development | Android App Development | Machine Learning | Open-Source Contributions
+
 
 
 
@@ -18,14 +20,17 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 
 
 
+
 ## 🔧 **Current Projects**
 **Swappr**: A course-swapping platform for BRACU students. [Live Project](https://swappr-bracu.web.app)
+
 
 
 
 ## 📫 **Let's Connect**
 **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
 **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+
 
 
 

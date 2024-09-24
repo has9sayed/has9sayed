@@ -30,19 +30,19 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 <br>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<div> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=github_dark" width="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8" width="100%">
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=has9sayed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">
   <img src="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default" alt="Hasnain's GitHub Stats">
 </picture>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=github_dark" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8" width="45%">
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=has9sayed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>

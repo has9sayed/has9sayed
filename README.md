@@ -1,34 +1,18 @@
-## Hi there! It's **Hasnain Sayed**.
+## Hi there! I am **Hasnain Sayed**.
 
-Welcome to my GitHub! I am a guy with a passion for building solutions that address real-world challenges.
+Welcome to my GitHub! I am a beginner programmer with a passion for building solutions that address real-world challenges.
 
 ---
 
-## 🔍 **About Me**
-- 🎓 **Education**: B.Sc. in Computer Science & Engineering, BRAC University
-- 💼 **Interests**: Web Development, Android App Development, Open-Source Contributions, ML
+## 💼 **Interests**
+Web Development, Android App Development, ML, Open-Source Contributions
 
 ---
 
 ## 🛠 **Skills**
-- **Languages**: 
-  - <span style="color: #f34b7d;">Python</span>, 
-  - <span style="color: #00599c;">C</span>, 
-  - <span style="color: #00599c;">C++</span>, 
-  - <span style="color: #f89820;">Verilog</span>, 
-  - <span style="color: #f0db4f;">JavaScript</span>, 
-  - <span style="color: #007396;">Java</span>
-  
-- **Frameworks/Tools**: 
-  - <span style="color: #ff6f20;">TensorFlow</span>, 
-  - <span style="color: #61dafb;">React.js</span>, 
-  - <span style="color: #3ddc84;">Android Studio</span>, 
-  - <span style="color: #f34b7d;">Git</span>, 
-  - <span style="color: #ff6f20;">SmartPLS 4</span>
-  
-- **Platforms**: 
-  - <span style="color: #a5c2f0;">Linux</span>, 
-  - <span style="color: #0078d7;">Windows</span>
+- **Languages**: Python, C, C++, Verilog, JavaScript, Java
+- **Frameworks/Tools**: TensorFlow, React.js, Android Studio, Git, SmartPLS 4
+- **Platforms**: Linux, Windows
 
 ---
 

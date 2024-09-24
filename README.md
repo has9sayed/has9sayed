@@ -2,8 +2,9 @@
 
 ## 👋 Hi there! I am Hasnain.
 
-Welcome to my GitHub! I am a beginner programmer with a passion for building solutions that address real-world challenges.
-
+Welcome to my GitHub!
+<p>I am a beginner programmer with a passion for building solutions that address real-world challenges.
+</p>
 <br>
 
 ## 💼 **I'm Interested In**

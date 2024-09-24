@@ -19,7 +19,7 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 
 <br>
 
-## 🔧 **Current Projects**
+## 🔧 **My Projects**
 **Swappr**: A course-swapping platform for BRACU students. [Live Project](https://swappr-bracu.web.app)
 
 <br>
@@ -30,7 +30,7 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 
 <br>
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 📊 **My Stats**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=has9sayed&show_icons=true&theme=default">

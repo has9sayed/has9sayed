@@ -24,8 +24,8 @@ Web Development | Android App Development | ML | Open-Source Contributions
 ---
 
 ## 📫 **Get in Touch**
-- **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
-- **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+**Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
+**LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
 
 ---
 

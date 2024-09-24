@@ -1,20 +1,23 @@
 <div align="center">
 
-## 👋 Hi there! I am <span style="color: #4CAF50;">**Hasnain Sayed**</span>.
+## 👋 Hi there! I am **Hasnain Sayed**.
 
 Welcome to my GitHub! I am a beginner programmer with a passion for building solutions that address real-world challenges.
 
 ---
 
-## 💼 **Interests**
-Web Development | Android App Development | ML | Open-Source Contributions
+## 💼 **I'm Interested In**
+- Web Development
+- Android App Development
+- Machine Learning (ML)
+- Open-Source Contributions
 
 ---
 
-## 🛠 **Skills**
-**Languages**: Python | C | C++ | Verilog | JavaScript | Java  
-**Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
-**Platforms**: Linux | Windows
+## 🛠 **My Skills**
+- **Languages**: Python | C | C++ | Verilog | JavaScript | Java  
+- **Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
+- **Platforms**: Linux | Windows
 
 ---
 
@@ -23,9 +26,9 @@ Web Development | Android App Development | ML | Open-Source Contributions
 
 ---
 
-## 📫 **Get in Touch**
-**Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
-**LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+## 📫 **Let's Connect**
+- **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
+- **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
 
 ---
 

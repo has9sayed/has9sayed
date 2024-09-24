@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 ## 👋 Hi there! I am Hasnain.
 
@@ -26,6 +26,15 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 ## 📫 **Let's Connect**
 **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
 **LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+
+<br>
+
+## 𝗦𝘁𝗮𝘁𝘀
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=has9sayed&theme=github_dark" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=has9sayed&theme=github_dark" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=has9sayed&theme=github_dark&utcOffset=8" width="100%">
+
+[![](https://visitcount.itsvg.in/api?id=has9sayed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
 

@@ -26,7 +26,7 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 
 ## 📫 **Let's Connect**
 **Email**: [wkhasnainup@gmail.com](mailto:wkhasnainup@gmail.com)  
-**LinkedIn**: [Hasnain Sayed](https://www.linkedin.com/in/has9sayed)
+**LinkedIn**: [Hasnain Habib Sayed](https://www.linkedin.com/in/has9sayed)
 
 <br>
 

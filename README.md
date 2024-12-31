@@ -13,7 +13,7 @@ Web Development | Android App Development | Machine Learning | Open-Source Contr
 <br>
 
 ## 🛠 **My Skills**
-**Languages**: Python | C | C++ | Verilog | JavaScript | Java  
+**Languages**: Python | JavaScript | Java  
 **Frameworks/Tools**: TensorFlow | React.js | Android Studio | Git | SmartPLS 4  
 **Platforms**: Linux | Windows
 
